@@ -1,0 +1,16 @@
+.text-styles{
+    color:white;
+}
+
+.border-class
+{
+  border:thin black solid;
+  margin:20px;
+  padding:20px;
+}
+@media screen and (max-width: 450px) {
+    .text-styles{
+        color:white;
+        font-size: 1.2rem;
+    }
+  }
